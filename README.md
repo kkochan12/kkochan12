@@ -2,6 +2,8 @@
 
 ---
 
+about:
+
 
 fourth year computer science major at UC Davis aspiring to explore the field of data analytics and visualization. 
 
