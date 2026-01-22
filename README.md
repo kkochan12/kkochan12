@@ -1,11 +1,17 @@
 # welcome!
 
 ---
+<div align="center">
+about me:
 
-about:
+ 
+I am a fourth year computer science major at UC Davis, aspiring to explore the field of computer science, data analytics, and visualization. 
 
 
-fourth year computer science major at UC Davis aspiring to explore the field of data analytics and visualization. 
+</div>
+
+<img width="5000" height="3600" alt="image" src="https://github.com/user-attachments/assets/2844e194-bff0-4ad0-8a79-be8c5634a2b3" />
+
 
 
 ---
@@ -19,7 +25,7 @@ fourth year computer science major at UC Davis aspiring to explore the field of 
 
 
 
-### **contacts**
+## **contacts**
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e1b50756-2008-4fba-b6af-bc57704cb5b4" />](mailto:kkochan@ucdavis.edu)
 
 
